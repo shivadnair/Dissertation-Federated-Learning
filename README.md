@@ -9,4 +9,4 @@ About Federated Learning Implementation:
 
 The Federated Learning system has been implemented using two methods:
 1) Flower framework: Using a pre-built framework for federated learning, to simulate training of binary classification model using Logistic Regression.
-2) Custom code: A custom-built federated learning model to simulate training of binary classification model using a TensorFlow Keras Neural Network model with 11 inputs, a hidden layer with 8 nodes, and one output layer.
+2) Custom code: A custom-built federated learning model to simulate training of binary classification model using a TensorFlow Keras Neural Network model with 11 inputs, a hidden layer with 8 nodes, and one output layer. A custom code was developed to study the effect of incremental data and effect of noise on the trained model.
