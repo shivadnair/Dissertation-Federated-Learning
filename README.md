@@ -17,8 +17,9 @@ There are two dataset files, namely,
 2) **dataset.csv**: Cleaned data file used in Tensorflow code
 
 About Code files-
-There are three code files, namely,
-1) **Federated learning code - Final.ipynb** : FLower framework code
-2) **FE_HL_Updated_13_07_2024_without_noise.ipynb** : Tensorflow code without the effect of noise
-3) **FE_HL_Updated_13_07_2024_with_noise.ipynb** : Tensorflow code with the effect of noise
+There are four code files, namely,
+1) **EDA** : Exploratory Data Analysis code
+2) **Federated learning code - Final.ipynb** : FLower framework code
+3) **FE_HL_Updated_13_07_2024_without_noise.ipynb** : Tensorflow code without the effect of noise
+4) **FE_HL_Updated_13_07_2024_with_noise.ipynb** : Tensorflow code with the effect of noise
    
