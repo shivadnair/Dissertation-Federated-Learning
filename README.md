@@ -10,3 +10,15 @@ About Federated Learning Implementation:
 The Federated Learning system has been implemented using two methods:
 1) Flower framework: Using a pre-built framework for federated learning, to simulate training of binary classification model using Logistic Regression.
 2) Custom code: A custom-built federated learning model to simulate training of binary classification model using a TensorFlow Keras Neural Network model with 11 inputs, a hidden layer with 8 nodes, and one output layer. A custom code was developed to study the effect of incremental data and effect of noise on the trained model.
+
+About Dataset files-
+There are two dataset files, namely,
+1) **credit_risk_dataset.csv** : Raw data file downloaded directly from source (https://www.kaggle.com/datasets/laotse/credit-risk-dataset?select=credit_risk_dataset.csv)
+2) **dataset.csv**: Cleaned data file used in Tensorflow code
+
+About Code files-
+There are three code files, namely,
+1) **Federated learning code - Final.ipynb** : FLower framework code
+2) **FE_HL_Updated_13_07_2024_without_noise.ipynb** : Tensorflow code without the effect of noise
+3) **FE_HL_Updated_13_07_2024_with_noise.ipynb** : Tensorflow code with the effect of noise
+   
