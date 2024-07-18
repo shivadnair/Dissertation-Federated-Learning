@@ -1,4 +1,4 @@
-# Dissertation-Federated-Learning
+# Dissertation: Building a Homomorphic Encryption enabled Federated Learning model and analysing the effect of incremental data and noise
 
 About Dataset:
 The dataset was sourced from a publicly available data source and was selected due its comprehensive and varied set of financial features that are relevant to the business use case. It contains a total of 32,000 rows and 9 features/dimensions.
